@@ -3,11 +3,14 @@
 Seus repositórios- Novo
  - Colocar nome do repositório e descrição
  - Perfil público
- - Adiconar arquivo README (arquivo para anotações especiais, links etc)
+ - Adicionar arquivo README (arquivo para anotações especiais, links etc)
 
  > O arquivo README terá a extensão .md (Markdown)
+
  > O arquivo é editável pelo próprio Github, mas também dá para utilizar o Visual Studio Code
+
  > Lembrar que o Github é um repositório na nuvem e o Git é local
+
  O Git é um software de controle de versão, já o GitHub é como se fosse uma rede social de pessoas desenvolvedoras, ou seja, uma plataforma na qual podem compartilhar projetos.
 
 **Como clonar o repositório do Github para o Git**
